@@ -1,0 +1,182 @@
+[
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa31'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'CEK',
+    dst_airport: 'KZN',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa32'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'ASF',
+    dst_airport: 'KZN',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa33'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'CEK',
+    dst_airport: 'OVB',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa34'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'DME',
+    dst_airport: 'KZN',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa35'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'ASF',
+    dst_airport: 'MRV',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa36'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'DME',
+    dst_airport: 'NBC',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa37'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'DME',
+    dst_airport: 'TGK',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa38'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'AER',
+    dst_airport: 'KZN',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa39'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'DME',
+    dst_airport: 'UUA',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa3a'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'EGO',
+    dst_airport: 'KGD',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa3b'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'EGO',
+    dst_airport: 'KZN',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa3c'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'GYD',
+    dst_airport: 'NBC',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa3d'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'KGD',
+    dst_airport: 'EGO',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa3e'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'KZN',
+    dst_airport: 'AER',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa3f'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'KZN',
+    dst_airport: 'ASF',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa40'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'KZN',
+    dst_airport: 'CEK',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa41'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'KZN',
+    dst_airport: 'DME',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa42'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'KZN',
+    dst_airport: 'EGO',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa43'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'KZN',
+    dst_airport: 'LED',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  },
+  {
+    _id: ObjectId('56e9b39b732b6122f877fa44'),
+    airline: { id: 410, name: 'Aerocondor', alias: '2B', iata: 'ARD' },
+    src_airport: 'KZN',
+    dst_airport: 'SVX',
+    codeshare: '',
+    stops: 0,
+    airplane: 'CR2'
+  }
+]
